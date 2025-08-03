@@ -1,17 +1,12 @@
-TRYING TO GET A QUICK LOOK? yea its perfectly fine. here you go.
+IF YOU ARE LOOKING FOR THE TERMINAL GUIDE SCROLL DOWN!
 
 
 
 
-<img width="517" height="507" alt="Screenshot 2025-08-02 181702" src="https://github.com/user-attachments/assets/ba2ee89d-270d-4a97-853d-35a57362298c" />
-
-<img width="396" height="218" alt="Screenshot 2025-08-02 201454" src="https://github.com/user-attachments/assets/832beb8a-4c24-4118-8a01-9223c21fd977" />
-<img width="516" height="505" alt="Screenshot 2025-08-02 181714" src="https://github.com/user-attachments/assets/b8e24ebd-d68c-4ec1-9c90-9062ba06978f" />
-
-<img width="399" height="220" alt="Screenshot 2025-08-02 201504" src="https://github.com/user-attachments/assets/f40daac1-17e2-4374-8992-c03694f0c4bc" />
-
-
-
+<img width="388" height="380" alt="Screenshot 2025-08-02 181702" src="https://github.com/user-attachments/assets/ba2ee89d-270d-4a97-853d-35a57362298c" />
+<img width="388" height="380" alt="Screenshot 2025-08-02 181714" src="https://github.com/user-attachments/assets/b8e24ebd-d68c-4ec1-9c90-9062ba06978f" />
+<img width="388" height="213" alt="Screenshot 2025-08-02 201454" src="https://github.com/user-attachments/assets/832beb8a-4c24-4118-8a01-9223c21fd977" />
+<img width="388" height="213" alt="Screenshot 2025-08-02 201504" src="https://github.com/user-attachments/assets/f40daac1-17e2-4374-8992-c03694f0c4bc" />
 
 
 
@@ -38,15 +33,16 @@ Clean, modern interface built with CustomTkinter
 Portable standalone executable (OneDir folder)
 
 Using the OneDir Executable
-Build the app using PyInstaller (instructions below), or download the pre-built OneDir folder (if available).
+Build the app using PyInstaller (instructions below), or download the pre-built MultiMidi zip file. (get the newest each time a new one releases).
 
-Inside the OneDir folder, run MultiMidi.exe to launch the app.
+Inside the MultiMidi folder, run MultiMidi.exe to launch the app.
 
 Use the GUI to select MIDI files, toggle live MIDI device mode, and configure hotkeys.
 
 Logs and status messages appear in the built-in console window.
 
 /////////////////////////////////////////////////////////////////
+TERMINAL GUIDE//
 
 If you dont feel safe downloading the full version, you can do it yourself!
 
