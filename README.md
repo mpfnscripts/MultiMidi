@@ -1,3 +1,26 @@
+TRYING TO GET A QUICK LOOK? yea its perfectly fine. here you go.
+
+
+
+
+<img width="517" height="507" alt="Screenshot 2025-08-02 181702" src="https://github.com/user-attachments/assets/ba2ee89d-270d-4a97-853d-35a57362298c" />
+
+<img width="396" height="218" alt="Screenshot 2025-08-02 201454" src="https://github.com/user-attachments/assets/832beb8a-4c24-4118-8a01-9223c21fd977" />
+<img width="516" height="505" alt="Screenshot 2025-08-02 181714" src="https://github.com/user-attachments/assets/b8e24ebd-d68c-4ec1-9c90-9062ba06978f" />
+
+<img width="399" height="220" alt="Screenshot 2025-08-02 201504" src="https://github.com/user-attachments/assets/f40daac1-17e2-4374-8992-c03694f0c4bc" />
+
+
+
+
+
+
+
+
+
+
+
+
 MultiMidi - MIDI to Virtual Piano Key Mapper (OneDir Build)
 MultiMidi is a lightweight desktop app that converts MIDI input (from files or live devices) into virtual keyboard key presses. This lets you control virtual pianos, Roblox games, or any keyboard-driven software with your MIDI controller.
 
